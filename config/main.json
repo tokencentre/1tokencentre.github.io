@@ -17,7 +17,7 @@
   "gasTrade": 250000,
   "gasOrder": 250000,
   "minOrderSize": 0.001,
-  "socketServer": ["https://tokencentre.github.io/socket01"],
+  "socketServer": ["http://backend.woyagertoken.com"],
   "userCookie": "TokenCentre",
   "eventsCacheCookie": "TokenCentre_eventsCache",
   "ordersCacheCookie": "TokenCentre_ordersCache",
