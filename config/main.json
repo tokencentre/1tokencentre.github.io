@@ -767,5 +767,5 @@
     { "addr": "0xee3bb3bfb79b153bf1181a3995dc4aa8c4f037bb", "name": "BETN", "decimals": 8 },
     { "addr": "0x05edffbda103d90d5040829a105f687443e0ca3e", "name": "WYX", "decimals": 18 }
   ],
-  "defaultPair": { "token": "WYX", "base": "ETH" }
+  "defaultPair": { "token": "DAI", "base": "ETH" }
 }
