@@ -762,7 +762,7 @@
     { "addr": "0xff3519eeeea3e76f1f699ccce5e23ee0bdda41ac", "name": "BCAP", "decimals": 0 },
     { "addr": "0xffe8196bc259e8dedc544d935786aa4709ec3e64", "name": "HDG", "decimals": 18 },
     { "addr": "0x0f767338244418310342D49b02183715691D988F", "name": "GENT", "decimals": 18 },
-    { "addr": "0x4b44f450bc3bFB60DC1a0690cBA028e1193CaE4f", "name": "TXT", "decimals": 8 },
+    { "addr": "0xc0223d4411440a5d7d4083e2ebbf6f2a27ac8d9f", "name": "TXT", "decimals": 8 },
     { "addr": "0x16c51a28CDd664b6B713Fbb1E473FF40D151B020", "name": "TXTC", "decimals": 8 },
     { "addr": "0xee3bb3bfb79b153bf1181a3995dc4aa8c4f037bb", "name": "BETN", "decimals": 8 },
     { "addr": "0x05edffbda103d90d5040829a105f687443e0ca3e", "name": "WYX", "decimals": 18 }
