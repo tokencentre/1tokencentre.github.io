@@ -1,5 +1,5 @@
 {
-  "contractEtherDelta": "smart_contract/etherdelta.sol",
+  "contractEtherDelta": "smart_contract/TokenCentre.sol",
   "contractToken": "smart_contract/token.sol",
   "contractReserveToken": "smart_contract/reservetoken.sol",
   "contractEtherDeltaAddrs": [
